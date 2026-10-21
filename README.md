@@ -120,25 +120,24 @@ Tiga mahasiswa baru yang ditambahkan ke database:
 
 ## Hasil Praktikum
 
-### 1. Koneksi SQL Server Express
-
-![Koneksi SQL Server Express](screenshots/01-koneksi-sqlexpress.png)
-
 ### 2. Database StudentRegistrationDB
 
-![Current Database](screenshots/02-current-database.png)
+<img width="315" height="162" alt="image" src="https://github.com/user-attachments/assets/78230caf-a9d9-4cb8-94e6-cfa15b8c399c" />
 
 ### 3. Tabel Programs
 
-![Tabel Programs](screenshots/03-tabel-programs.png)
+<img width="852" height="271" alt="image" src="https://github.com/user-attachments/assets/041841d3-4f68-4afd-a501-7f3b3b8b525f" />
+
 
 ### 4. Tabel Students
 
-![Tabel Students](screenshots/04-tabel-students.png)
+<img width="1117" height="257" alt="image" src="https://github.com/user-attachments/assets/ad8e7103-3814-4ffb-b7e7-b2fefc5ddfc4" />
+
 
 ### 5. Hasil JOIN (Mini Assignment)
 
-![Hasil JOIN](screenshots/05-hasil-join.png)
+<img width="667" height="297" alt="image" src="https://github.com/user-attachments/assets/60ec7f92-a38c-4197-a54f-c2980a209947" />
+
 
 ---
 
@@ -146,11 +145,13 @@ Tiga mahasiswa baru yang ditambahkan ke database:
 
 ### Tampilan Aplikasi
 
-![Implementasi WPF](screenshots/implement-wpf.png)
+<img width="847" height="201" alt="image" src="https://github.com/user-attachments/assets/c4cbd1fd-963d-40dd-98a9-eb4b6392609a" />
+
 
 ### Refresh Data
 
-![Refresh Data](screenshots/refresh-wpf.png)
+<img width="848" height="207" alt="image" src="https://github.com/user-attachments/assets/4c5f350d-bb3c-49df-b535-d5d3b4aed70a" />
+
 
 ---
 
